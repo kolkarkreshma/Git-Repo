@@ -11,6 +11,7 @@ public class Count_digits {
 
 	 //count--
 			//syso("odd number");
+			//syso("Even Number");
 		}
 		System.out.println(count);
 	}
