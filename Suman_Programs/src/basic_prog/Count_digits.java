@@ -8,6 +8,9 @@ public class Count_digits {
 		while(num>0) {
 			num=num/10;
 			count++;
+
+	 //count--
+			//syso("odd number");
 		}
 		System.out.println(count);
 	}
